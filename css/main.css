@@ -1,0 +1,30 @@
+#main{
+  width: 50px;
+  position: fixed;
+  right: 0;
+  top: 100px;
+}
+.box{
+  width: 50px;
+  height: 50px;
+  color: white;
+  font-size: 25px;
+  text-align: center;
+  line-height: 60px;
+}
+
+#facebook{
+  background-color:  rgb(59,89,152);
+}
+#twitter{
+  background-color: rgb(29,161,242);
+}
+#instagram{
+  background-color: #DC143C;
+}
+#whatsapp{
+  background-color: #32CD32;
+}
+#spotify{
+  background-color: #2E8B57;
+}
